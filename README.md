@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karanshah1989
+- 👋 Hi, I’m karanshah
 - 👀 I’m interested in Machine_Learning, Data_Science, Big_Data and other Relevent topics in DS.
 - 🌱 I’m currently learning Machine_Laraning, Python, Data_Analystics, Hadoop, Power-BI, Tablue, R.
 - 💞️ I’m looking to collaborate on Project on ML.
